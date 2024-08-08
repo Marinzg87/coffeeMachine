@@ -66,16 +66,24 @@ Steps:
   latte was their choice of drink. 
 
 ## To Do's
-- [ ] Prepare the flow chart
-- [ ] Prepare comments or pseudo-code
-- [ ] Write down the functionalities
+- [x] Prepare the breakdown requirements and/or flow chart
+- [x] Prepare comments and/or pseudo-code
+- [x] Write down the functionalities
 - [ ] Code
 - [ ] Test
 - [ ] Have fun!
 
 ## Pseudo-code & Comments
 ### Comments
-
+In general, program should have several functionalities.
+Should be able to:
+- prompt user by asking “What would you like? (espresso/latte/cappuccino):”;
+- print the resources report;
+- check the resources sufficient;
+- process coins;
+- check transaction successfully (enough money and change calculate);
+- make coffee;
+- turn off the Coffee Machine by entering “off” to the prompt;
 
 ### Pseudo-code
 ```
@@ -83,4 +91,9 @@ Steps:
 ```
 
 ## Functionalities
-- function 1
+- resources report;
+- resources sufficient;
+- coin process;
+- successfully transaction;
+- make coffee;
+- maintenance turn off.
