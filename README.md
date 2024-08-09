@@ -71,8 +71,8 @@ Steps:
 - [x] Write down the functionalities
 - [x] Code
 - [x] Test
-- [ ] Debug
-- [ ] Have fun!
+- [x] Debug
+- [x] Have fun!
 
 ## Pseudo-code & Comments
 ### Comments
